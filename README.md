@@ -1,6 +1,6 @@
 # Note-Taking-App
 
-First full stack with React as Front-end
+Full stack fun side project with React as Front-end
 - Allow user to create/update/delete note
 - Responsive UI
 - Conditional rendering
